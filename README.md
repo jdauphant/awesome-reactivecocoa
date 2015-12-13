@@ -1,7 +1,7 @@
 # awesome-reactivecocoa
-Example and Tools around Reactive Cocoa.
+A curated list of examples and tools around Reactive Cocoa.
 
-All this ressources can be experimental and not fit for production environnement.
+:construction: All this ressources can be experimental and could not fit for production environnement :construction: 
 
 ## ReactiveCocoa 4 (Swift 2.0/2.1)
 
